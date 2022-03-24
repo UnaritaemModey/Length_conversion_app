@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(34, 44, 66);
+}
+
+.container{
+    box-sizing: border-box;
+    margin: auto;
+    width: 550px;
+    height: 300px;
+    border: 2px ;
+    border-radius: 5px;
+    padding-left: 15px;
+    margin-top: 200px;
+    
+}
+
+h1{
+    color: aliceblue;
+    padding-right: 35px;
+    font-weight: lighter;
+
+}  
+
+#valueinput{
+     height: 20px;
+     background-color: azure;
+     width: 60%;
+     margin-left: 5px;
+    
+}
+
+.display{
+    max-width: 60%;
+    height:35px;
+    background-color: rgb(209, 209, 236);
+    margin-left: 8px;
+    padding-left: 6px;
+    border-radius: 5px;
+}
+
+span{
+    font-size:smaller;
+    color: rgb(23, 1, 29);
+}
